@@ -1,0 +1,23 @@
+#
+# theme.txt - GRUB Compact Theme Main File
+#
+# Written by Ercan Ersoy (http://ercanersoy.net)
+#
+
+# Global Properties
+
+title-color: "black"
+desktop-color: "lightgray"
+
+
+# Boot Menu
+
++ boot_menu
+{
+    top = 30%
+    left = 25%
+    height = 50%
+    width = 50%
+    item_color = "black"
+    selected_item_color = "blue"
+}
