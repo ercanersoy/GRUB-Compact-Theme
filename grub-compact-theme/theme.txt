@@ -18,6 +18,10 @@ desktop-color: "lightgray"
     left = 25%
     height = 50%
     width = 50%
+    item_padding = 10
+    item_height = 20
+    item_spacing = 10
     item_color = "black"
-    selected_item_color = "blue"
+    selected_item_color = "white"
+    selected_item_pixmap_style = "select_*.png"
 }
